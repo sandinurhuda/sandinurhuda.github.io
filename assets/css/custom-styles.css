@@ -1,0 +1,88 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar-custom {
+  font-family: 'Poppins', sans-serif;
+}
+
+footer .copyright {
+  font-family: 'Poppins', sans-serif;
+}
+
+footer .footer-custom-content {
+  font-family: 'Poppins', sans-serif;
+}
+
+.post-preview a {
+  font-family: 'Poppins', sans-serif;
+}
+
+.post-preview .post-meta,
+.post-heading .post-meta {
+  font-family: 'Lato', sans-serif;
+}
+
+#full-tags-list {
+  font-family: 'Lato', sans-serif;
+}
+
+.intro-header .page-heading .page-subheading,
+.intro-header .post-heading .post-subheading {
+  font-family: 'Poppins', sans-serif;
+}
+
+.intro-header.big-img .img-desc {
+  font-family: 'Poppins', sans-serif;
+}
+
+.pagination .page-item .page-link {
+  font-family: 'Poppins', sans-serif;
+}
+
+#beautifuljekyll-search-overlay {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* --- HOME PAGE CUSTOM --- */
+
+.post-preview .post-subtitle {
+  font-size: 20px;
+}
+
+.post-preview .post-author {
+  font-size: 16px;
+}
+
+.post-preview .post-meta {
+  font-size: 16px;
+}
+
+.blog-tags {
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  font-style: italic;
+}
+
+.blog-tags .blog-tags-item {
+  font-family: 'Lato', sans-serif;
+  color: #666666;
+}
+
+.post-entry .post-read-more {
+  font-size: 16px;
+}
+
+/* ------------------------ */
+
+.figcap {
+  font-family: 'Lato', sans-serif;
+  font-size: 14px;
+  font-style: italic;
+  color: #6b6b6b;
+  text-align: center;
+}
