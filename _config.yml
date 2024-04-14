@@ -20,8 +20,8 @@ author: Sandi Yusuf Nurhuda
 ###############################################
 
 navbar-links:
+  Certifications: "certifications"
   About Me: "about"
-  # Author's home: ""
 
 ################
 # --- Logo --- #
