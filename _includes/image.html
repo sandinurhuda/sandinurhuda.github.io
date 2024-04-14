@@ -3,6 +3,9 @@
     <a href="{{ include.url }}">
     {% endif %}
     <img
+        {% if include.class %}
+            class="{{ include.class }}"
+        {% endif %}
         {% if include.srcabs %}
             src="{{ include.srcabs }}"
         {% else %}

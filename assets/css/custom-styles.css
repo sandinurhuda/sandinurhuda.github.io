@@ -86,3 +86,8 @@ footer .footer-custom-content {
   color: #6b6b6b;
   text-align: center;
 }
+
+.figcap .aboutme-img {
+  width: 50%;
+  border-radius: 50%;
+}
